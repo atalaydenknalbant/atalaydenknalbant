@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/robot%20header.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/clank.gif" width="350"/>
 </div>
 
 <h1 align="center">Hello, Human! 👋</h1>

@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/wcYyuVWMTNK3H2qPNT/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/wcYyuVWMTNK3H2qPNT/giphy.gif" width="350"/>
 </div>
-# Hello, Human! 👋
 
+<h1 align="center">Hello, Human! 👋</h1>
 
 
 <!--

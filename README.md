@@ -1,4 +1,9 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/wcYyuVWMTNK3H2qPNT/giphy.gif" width="400"/>
+</div>
+# Hello, Human! 👋
+
+
 
 <!--
 **atalaydenknalbant/atalaydenknalbant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

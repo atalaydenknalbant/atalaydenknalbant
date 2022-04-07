@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/clank.gif" width="350"/>
 </div>
 
-<h1 align="center">Hello, Human! 👋</h1>
+<h1 align="center">Hello, Human! <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/Ratchet.gif" align="center" height="50"/> </h1>
 
 
 <!--

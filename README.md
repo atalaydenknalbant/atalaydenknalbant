@@ -1,4 +1,7 @@
-<head></head>
+<head>
+  <meta charset="utf-8">
+</head>
+
 <body>
 <div id="root" align="left">
 <div id="header" align="center">

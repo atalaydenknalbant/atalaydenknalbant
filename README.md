@@ -12,7 +12,7 @@
 <h1 align="center">Hello, Human! <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/Ratchet.gif" align="center" height="50"/> </h1>
 
 I am Atalay Denknalbant, I'm Data Scientist/Software Engineer. I came from <a href="https://goturkiye.com/"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/turkey.png" align="center" height="30"/> </a>
- , currently living in Cliffside Park New Jersey.
+ , currently living in Lake Worth Florida.
 
 <h2 align="center">  <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/gear.gif" align="center" height="30"/> Tech Stack </h2>
 

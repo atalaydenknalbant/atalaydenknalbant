@@ -11,7 +11,7 @@
 
 <h1 align="center">Hello, Human! <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/Ratchet.gif" align="center" height="50"/> </h1>
 
-<p align="center">Data Scientist/Software Engineer, from  <a href="https://goturkiye.com/"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/turkey.png" align="center" height="30"/> </a></p>
+<p align="center">Data Scientist from  <a href="https://goturkiye.com/"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/turkey.png" align="center" height="30"/> </a></p>
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/contact.gif" align="center" height="30"/>Contact </h2>
 <div align="center">

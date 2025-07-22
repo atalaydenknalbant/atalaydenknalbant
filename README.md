@@ -15,7 +15,7 @@
 
 <h2 align="center"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/contact.gif" align="center" height="30"/>Contact </h2>
 <div align="center">
-<a href="mailto:atalaydenknalbant@hotmail.com"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/mail.gif" align="center" height="60"/> </a> <a href="https://www.linkedin.com/in/atalaydenknalbant/"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/linkedin.gif" align="center" height="50"/> </a> 
+<a href="mailto:atalaydenknalbant@hotmail.com"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/mail.gif" align="center" height="70"/> </a> <a href="https://www.linkedin.com/in/atalaydenknalbant/"> <img src="https://raw.githubusercontent.com/atalaydenknalbant/atalaydenknalbant/main/linkedin.gif" align="center" height="50"/> </a> 
 </div>
 </div>
 </body>
